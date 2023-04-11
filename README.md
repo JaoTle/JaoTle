@@ -12,4 +12,4 @@ I'm a new graduate with B.S. (Computer Science) from Kasetsart University.
 📧 : chutikarn.t44@gmail.com
 ![alt-text][linkedin](https://www.linkedin.com/in/chutikarn-mongkolthanachok-ba4b33251/)
 
-[linkedin] : https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png
+[linkedin] : https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png "LinkedIn"
